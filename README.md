@@ -1,4 +1,5 @@
 # Network-Hacking
+**In this project, we've developed a web application that we initially conceptualized as a digital library for books. Our plan involves deploying this web application within our local network. A search feature is incorporated within the web application, allowing users to explore books using keywords like C++, Python, Java, and more. Notably, this search function lacks proper sanitization, indicating that the web application does not adequately process user inputs before fetching results from the web server. Concurrently, we've created several Python applications designed to scan the network subsequent to exploiting potential vulnerabilities in the web application.**
 
 ## Project Report -
 ## Each group member should report on what they accomplished in the project.
